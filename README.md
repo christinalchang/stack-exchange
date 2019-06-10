@@ -6,6 +6,11 @@ Troy Lui, Christina Chang, Jonathan Quach
 
 This directory IPython Notebooks, Python scripts, and data related to the Stack Exchange Multi-Label Tag Classification Kaggle challenge. Please refer to `STA141C_ProjectReport` for more details on implementation and results.
 
+# Notes
+
+For the complete one-hot encoding table, please view the Google Drive Link below:
+* https://drive.google.com/drive/folders/1fDSxGmcKH6XsSJR7YjyzEvIM_642-PmS?usp=sharing
+
 # Contents
 
 ## Directories
