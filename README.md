@@ -4,7 +4,7 @@ Troy Lui, Christina Chang, Jonathan Quach
 
 # Overview
 
-This directory IPython Notebooks, Python scripts, and data related to the Stack Exchange Multi-Label Tag Classification Kaggle challenge. Please refer to `STA141C_ProjectReport` for more details on implementation and results.
+This directory IPython Notebooks, Python scripts, and data related to the Stack Exchange Multi-Label Tag Classification Kaggle challenge. Please refer to the written [report](STA141C_ProjectReport.pdf) for more details on implementation and results.
 
 # Notes
 
